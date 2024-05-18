@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Admin\Desktop\проги\учеба\math\ConsoleApplication1\ConsoleApplication1.cpp(301,13): warning C4849: Предложение "collapse" OpenMP игнорируется в директиве "parallel for".
+  Создание кода
+  5 of 167 functions ( 3.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ConsoleApplication1.vcxproj -> C:\Users\Admin\Desktop\проги\учеба\math\ConsoleApplication1\x64\Release\ConsoleApplication1.exe
